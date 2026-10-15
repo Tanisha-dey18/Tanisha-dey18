@@ -57,6 +57,28 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+### 🌃 Contribution city
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg"/>
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="My contribution calendar as a 3D city skyline"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg"/>
+    <img src="dist/snake-dark.svg" width="100%" alt="A snake eating my contribution graph"/>
+  </picture>
+</p>
+
+<p align="center"><sub>Rebuilt every night by a GitHub Action from my real contribution calendar.</sub></p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ### 🛠️ Toolbox
 
 <p align="center">
